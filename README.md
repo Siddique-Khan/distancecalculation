@@ -3,8 +3,11 @@ I have implemented a robust solution using the geopy library, which provides acc
 
 Features
 Geocoding: Uses OpenStreetMap's Nominatim service to find latitude/longitude for any address.
+
 Distance Calculation: Uses the geodesic distance method for high accuracy.
+
 Interactive: Prompts the user for two addresses (or uses defaults if left blank).
+
 Error Handling: Includes fixes for SSL certificate verification and handles network errors gracefully.
 
 # How to run
