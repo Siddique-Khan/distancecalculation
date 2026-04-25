@@ -1,5 +1,5 @@
 # distancecalculation
-I have implemented a robust solution using the geopy library, which provides accurate geocoding (converting addresses to coordinates) and distance calculation (using the geodesic formula). I also handled potential SSL certificate issues common on macOS.
+I have implemented a robust solution using the geopy library, which provides accurate geocoding (converting addresses to coordinates) and distance calculation (using the geodesic formula).
 
 Features
 Geocoding: Uses OpenStreetMap's Nominatim service to find latitude/longitude for any address.
@@ -20,4 +20,4 @@ When prompted, you can enter the addresses:
 
 Address 1: 901 Page Ave, Fremont, CA, 94538
 Address 2: 33 Terraced Hills Way, San Ramon, CA, 94583
-The output will display the distance in both kilometers and miles:
+The output will display the distance in both kilometers and miles. 
